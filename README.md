@@ -1,4 +1,6 @@
 # streamlit-plotly-csv-dashboard
+<img width="840" height="471" alt="image" src="https://github.com/user-attachments/assets/2c8a9edc-7efd-406d-bd66-83e5fa77bb7d" />
+
 Streamlit Data Cleaning & Exploration App
 1. Overview
 
