@@ -52,6 +52,9 @@ Data visualization (histograms, bar charts, line graphs)
 Download buttons for cleaned dataset & summary report
 
 This tool transforms raw messy data into clean, usable, analysis-ready datasets in seconds.
+
+
+
 4. Key Features
 ✔ Upload CSV File
 
@@ -98,7 +101,9 @@ Export:
 
 Cleaned CSV
 
-Summary statistics (CSV)
+Summary statistics (CSV).
+
+
 5. Tech Stack
 
 Python 3.x
@@ -112,6 +117,9 @@ Matplotlib / Seaborn
 Plotly (depending on final version)
 
 NumPy
+
+
+
 6. How It Works (Architecture)
 
 User uploads a CSV file
@@ -145,6 +153,9 @@ Charts update based on the cleaned DataFrame.
 
 Export
 User downloads cleaned dataset and statistics.
+
+
+
 7. Future Enhancements
 
 Outlier detection
